@@ -20,7 +20,7 @@ function App() {
   }
 
   return (
-    <div className="App container-fluid pt-5">
+    <div className="App container pt-3">
       <div className="row">
         {
           getItems.map((item, index) => { return <Card {...item} key={index} handleClick={handleClickItem} /> })

@@ -30,7 +30,7 @@ const Card = ({ id, title, img, thumb, playlist, stats, isActive, handleClick })
                 </div>
                 <div className="card-body mt-2" >
                     <div className="d-flex justify-content-between align-items-start" style={{ height: "5em", Height: "5em", overflow: "hidden" }}>
-                        <h2 className="card-title text-capitalize font-weight-bold" style={{ fontSize: "1.6em", fontWeight: "800" }}>{title}</h2>
+                        <h2 className="card-title text-capitalize font-weight-bold" style={{ fontSize: "1.2em", fontWeight: "800" }}>{title}</h2>
                         <img className="ifit-card-thumb" src={thumbPath} width="42" alt="{title}" />
                     </div>
                     <p className="font-weight-bold initialism mt-0" style={{ fontSize: "0.9em", fontWeight: "800", minHeight: '18px' }}>
@@ -40,7 +40,7 @@ const Card = ({ id, title, img, thumb, playlist, stats, isActive, handleClick })
                         </>)}
                     </p>
                     <div className="view-details">
-                        {isActive && (<a href="#" className="card-details text-uppercase font-weight-bold" style={{ fontSize: "1.5em", fontWeight: "600" }}>view details</a>)}
+                        {isActive && (<a href="#" className="card-details text-uppercase font-weight-bold" style={{ fontSize: "1.3em", fontWeight: "600" }}>view details</a>)}
                     </div>
                 </div>
             </div>
