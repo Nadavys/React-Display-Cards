@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Hosted At
 
-[ifit.blissfulwebdev.com](ifit.blissfulwebdev.com)
+[ifit.blissfulwebdev.com](https://ifit.blissfulwebdev.com)
 
 # Create React App Info
 

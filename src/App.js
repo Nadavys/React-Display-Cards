@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Card from './components/card.js';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './index.css';
-import data from './data.json'
+import data from './data.js'
 
 function App() {
   const [getItems, setItems] = useState([]);
