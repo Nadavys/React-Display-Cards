@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ifit/static/css/main.a53bed0a.chunk.css",
+    "main.js": "/ifit/static/js/main.0edc1444.chunk.js",
+    "main.js.map": "/ifit/static/js/main.0edc1444.chunk.js.map",
+    "runtime-main.js": "/ifit/static/js/runtime-main.d2f706a7.js",
+    "runtime-main.js.map": "/ifit/static/js/runtime-main.d2f706a7.js.map",
+    "static/css/2.9233ae65.chunk.css": "/ifit/static/css/2.9233ae65.chunk.css",
+    "static/js/2.65072b80.chunk.js": "/ifit/static/js/2.65072b80.chunk.js",
+    "static/js/2.65072b80.chunk.js.map": "/ifit/static/js/2.65072b80.chunk.js.map",
+    "index.html": "/ifit/index.html",
+    "precache-manifest.e70f4f1af75631a2c4fb38275b340e7f.js": "/ifit/precache-manifest.e70f4f1af75631a2c4fb38275b340e7f.js",
+    "service-worker.js": "/ifit/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/ifit/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.a53bed0a.chunk.css.map": "/ifit/static/css/main.a53bed0a.chunk.css.map",
+    "static/js/2.65072b80.chunk.js.LICENSE.txt": "/ifit/static/js/2.65072b80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2f706a7.js",
+    "static/css/2.9233ae65.chunk.css",
+    "static/js/2.65072b80.chunk.js",
+    "static/css/main.a53bed0a.chunk.css",
+    "static/js/main.0edc1444.chunk.js"
+  ]
+}
